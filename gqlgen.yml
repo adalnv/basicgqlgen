@@ -19,7 +19,7 @@ model:
 
 # Where should the resolver implementations go?
 resolver:
-  layout: follow-schema
+  layout: single-file
   dir: graph
   package: graph
 
